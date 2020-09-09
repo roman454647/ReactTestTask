@@ -2,8 +2,8 @@
 
 1. End goal is to create a simple page with simple functionality: 
     - table with list of users from `users` endpoint at the top of the page
-    - form with 3 fields (name, email - required, age - optional) and submit button.
-    - fields and button should be inline (aligned horizontally)
+    - under the table - form with 3 fields (name, email - required, age - optional) and submit button.
+    - fields and button should be inlined (aligned horizontally)
     - after submission we should initialize new request for the list of users and display new data in a table (so there will be no "optimistic update")
     
 2. Technologies to use
